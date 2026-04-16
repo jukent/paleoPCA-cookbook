@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 message: "If you use this cookbook, please cite it as below."
 authors:
   - family-names: Khider
@@ -14,5 +14,5 @@ authors:
     orcid: https://orcid.org/0000-0001-9381-705X
     affiliation: University of Southern California
 title: "Investigating interhemispheric precipitation changes over the past millennium" 
-url: "https://projectpythia.org/paleoPCA-Cookbook/"
+url: "https://khider.github.io/paleoPCA/"
 abstract: "This cookbook covers paleoclimate model-data comparison using spatio-temporal pattern obtained using Principal Component Analysis (PCA)."
