@@ -144,3 +144,6 @@ notebooks/.virtual_documents/.DS_Store
 
 # MyST build outputs
 _build
+*.nc
+.DS_Store
+.DS_Store
